@@ -489,7 +489,7 @@ export const supportedPools = [
     name: 'Halloween Party!',
     symbol: 'DAI-ETH LP',
     tokenSymbol: 'DAI',
-    icon: '🎃',
+    icon: '👨🏻‍🍳',
   },
 ]
 
